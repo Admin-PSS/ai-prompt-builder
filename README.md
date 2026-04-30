@@ -2,6 +2,8 @@
 
 Generate structured, ready-to-use prompts for AI image creation, image editing, and video generation — all in one place.
 
+**🌐 Live site: [https://admin-pss.github.io/ai-prompt-builder/](https://admin-pss.github.io/ai-prompt-builder/)**
+
 ![Image Generation tab](public/screenshot-image-generation.png)
 ![Video Generation tab](public/screenshot-video-photo.png)
 
