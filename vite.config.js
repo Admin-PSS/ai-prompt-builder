@@ -4,6 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 import { fileURLToPath, URL } from 'node:url'
 
 export default defineConfig({
+  base: '/ai-prompt-builder/',
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
